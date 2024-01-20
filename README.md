@@ -1,4 +1,4 @@
-# IOT-PROTECT-PET-
+# IOT-PROTECT PET 
 # Project Title: PETCARE - Pet Health Monitoring and Location Tracking Device
 # Overview
 PETCARE is a comprehensive IoT solution designed to monitor the health and track the location of pets. Developed by Team 16 as a part of their end-of-course project in Physics for Information Technology at the University of Science, Ho Chi Minh City, this project integrates a variety of technologies to ensure the well-being and safety of pets.
